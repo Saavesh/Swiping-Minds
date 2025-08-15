@@ -12,13 +12,20 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-data/
-data/raw/*
+data/raw/**
+!data/raw/
 !data/raw/.gitkeep
+!data/raw/atus/
 !data/raw/atus/.gitkeep
+!data/raw/ncvs/
 !data/raw/ncvs/.gitkeep
-data/processed/*
+
+
+data/processed/**
+!data/processed/
+!data/processed/.gitkeep
 
 # Reports
-reports/figures/*
+reports/figures/**
+!reports/figures/
 !reports/figures/.gitkeep
