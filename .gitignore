@@ -12,6 +12,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
+data/
 data/raw/*
 !data/raw/.gitkeep
 !data/raw/atus/.gitkeep
