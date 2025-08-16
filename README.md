@@ -1,5 +1,7 @@
 # Swiping Minds: Exploring the Relationship Between Screen Time in Young Males and Violence Trends Against Women  
 
+[Swiping Minds GitHub Repository](https://github.com/Saavesh/Swiping-Minds)
+
 ## Project Description  
 This project investigates the potential relationship between screen time in young males and violence trends against women. Using national survey data, we examined how behavioral patterns, media exposure, and societal changes may be connected to broader trends in violence and victimization. The project combines datasets from the American Time Use Survey (ATUS) and the National Crime Victimization Survey (NCVS) to provide both behavioral context and crime trends across decades.  
 
