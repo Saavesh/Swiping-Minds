@@ -30,3 +30,5 @@ data/processed/**
 reports/figures/**
 !reports/figures/
 !reports/figures/.gitkeep
+
+src/__pycache__/
